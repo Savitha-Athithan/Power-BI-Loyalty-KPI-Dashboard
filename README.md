@@ -39,10 +39,5 @@ The Power BI dashboard file (`woolies dashboard.pbix`) is available in this repo
 - Dashboard design and development
 - Data storytelling and business insights
 
-# Hello
-## savitha
-- Verygood
-### screenshot to display
-![woolies dashboard](woolies KPI loyalty.png)
-** bold? ** 
+
 
