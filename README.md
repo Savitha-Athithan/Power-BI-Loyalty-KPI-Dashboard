@@ -12,7 +12,7 @@ This project involves developing an interactive Power BI dashboard to analyse th
 ## Dashboard Screenshots
 
 ### 1. Loyalty KPI Dashboard
-![Woolworths Loyalty KPI Dashboard](Woolies%20KPI%20royalty.png)
+![Woolworths Loyalty KPI Dashboard](Woolies%20KPI%20loyalty.png)
 
 ### 2. Location Drill-Down Analysis
 ![Woolworths Location Drill](Woolies%20Location%20Drill%20.png)
